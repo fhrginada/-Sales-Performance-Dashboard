@@ -48,7 +48,7 @@ This project demonstrates how to build a clean and interactive **Sales Performan
 
 ## 🖼 Dashboard Preview  
 
-![Dashboard Preview](images/dashboard.png)  
+![Dashboard Preview](Images/dashboard.png)  
 
 ---
 
